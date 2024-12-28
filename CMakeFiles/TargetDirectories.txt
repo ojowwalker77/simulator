@@ -1,0 +1,5 @@
+/Users/jonataswalker/www/projetos/LifeSimulator/CMakeFiles/LifeSimulator.dir
+/Users/jonataswalker/www/projetos/LifeSimulator/CMakeFiles/edit_cache.dir
+/Users/jonataswalker/www/projetos/LifeSimulator/CMakeFiles/rebuild_cache.dir
+/Users/jonataswalker/www/projetos/LifeSimulator/external/json/CMakeFiles/edit_cache.dir
+/Users/jonataswalker/www/projetos/LifeSimulator/external/json/CMakeFiles/rebuild_cache.dir
